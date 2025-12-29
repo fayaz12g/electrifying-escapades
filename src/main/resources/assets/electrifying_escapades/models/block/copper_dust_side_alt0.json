@@ -1,0 +1,6 @@
+{
+    "parent": "electrifying_escapades:block/copper_dust_side_alt",
+    "textures": {
+        "line": "electrifying_escapades:block/copper_dust_line0"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "electrifying_escapades:block/gunpowder_side_alt",
+    "textures": {
+        "line": "electrifying_escapades:block/gunpowder_line1"
+    }
+}

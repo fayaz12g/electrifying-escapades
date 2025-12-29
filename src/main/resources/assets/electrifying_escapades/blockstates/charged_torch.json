@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "electrifying_escapades:block/charged_torch_off"
+    },
+    "lit=true": {
+      "model": "electrifying_escapades:block/charged_torch"
+    }
+  }
+}

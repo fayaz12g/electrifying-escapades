@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_floor",
+  "textures": {
+    "fire": "electrifying_escapades:block/charged_fire_1"
+  }
+}

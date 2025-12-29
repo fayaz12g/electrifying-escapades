@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fire_up_alt",
+  "textures": {
+    "fire": "electrifying_escapades:block/charged_fire_1"
+  }
+}

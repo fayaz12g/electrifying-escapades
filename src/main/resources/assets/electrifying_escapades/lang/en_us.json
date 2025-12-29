@@ -1,0 +1,34 @@
+{
+  "advancements.adventure.its_electric.description": "Power a netherite block using electricity.",
+  "advancements.adventure.its_electric.title": "It's Electric!",
+  
+  "advancements.adventure.storm_chasing.description": "Get struck by lightning with the shocking status effect.",
+  "advancements.adventure.storm_chasing.title": "Storm Chasing",
+
+    
+  "advancements.adventure.scorched_dirt.description": "Light a white fire on coarse dirt.",
+  "advancements.adventure.scorched_dirt.title": "Scorched Dirt Policy",
+
+  "block.electrifying_escapades.copper_dust": "Copper Dust",
+  "block.electrifying_escapades.quartz_dust": "Quartz Dust",
+  "block.electrifying_escapades.charged_torch": "Charged Torch",
+  "block.electrifying_escapades.electric_smoker": "Electric Smoker",
+  "block.electrifying_escapades.electric_furnace": "Electric Furnace",
+  "block.electrifying_escapades.electric_blast_furnace": "Electric Blast Furnace",
+  "block.electrifying_escapades.electric_brewing_stand": "Electric Brewing Stand",
+  "block.electrifying_escapades.heatbench": "Heatbench",
+  
+  "entity.electrifying_escapades.bolt": "Bolt",
+
+  "item.electrifying_escapades.copper_dust": "Copper Dust",
+  "item.electrifying_escapades.quartz_dust": "Quartz Dust",
+  "item.electrifying_escapades.electric_charge": "Electric Charge",
+  "item.electrifying_escapades.bolt_rod": "Bolt Rod",
+  "item.electrifying_escapades.bolt_spawn_egg": "Bolt Spawn Egg",
+
+  "item.electrifying_escapades.lingering_potion.effect.shocking": "Lingering Potion of Shocking",
+  "item.electrifying_escapades.potion.effect.shocking": "Potion of Shocking",
+  "item.electrifying_escapades.splash_potion.effect.shocking": "Splash Potion of Shocking",
+  "item.electrifying_escapades.tipped_arrow.effect.shocking": "Arrow of Shocking",
+  "effect.electrifying_escapades.shocking": "Shocking"
+}

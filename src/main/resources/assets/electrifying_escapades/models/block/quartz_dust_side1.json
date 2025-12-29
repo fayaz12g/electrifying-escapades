@@ -1,0 +1,6 @@
+{
+    "parent": "electrifying_escapades:block/quartz_dust_side",
+    "textures": {
+        "line": "electrifying_escapades:block/quartz_dust_line1"
+    }
+}
