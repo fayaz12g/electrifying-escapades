@@ -26,6 +26,9 @@ public class ElectrifyingEscapades implements ModInitializer {
 		// Register mobs
 		ModMobs.initialize();
 
+		// Register effects
+		ModEffects.initialize();
+
 		LOGGER.info("Electrifying Escapades initialized successfully!");
 	}
 }
